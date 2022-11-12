@@ -1,0 +1,114 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3696262 */
+  src: url('~@/static/iconfont/iconfont.eot?t=1665410646410'); /* IE9 */
+  src: url('~@/static/iconfont/~@/static/iconfont/~@/static/iconfont/~@/static/iconfont/~@/static/iconfont/iconfont.eot?t=1665410646410#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('~@/static/iconfont/~@/static/iconfont/~@/static/iconfont/~@/static/iconfont/iconfont.woff2?t=1665410646410') format('woff2'),
+       url('~@/static/iconfont/~@/static/iconfont/~@/static/iconfont/iconfont.woff?t=1665410646410') format('woff'),
+       url('~@/static/iconfont/~@/static/iconfont/iconfont.ttf?t=1665410646410') format('truetype'),
+       url('~@/static/iconfont/iconfont.svg?t=1665410646410#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-page-first:before {
+  content: "\e60c";
+}
+
+.icon-next:before {
+  content: "\e60d";
+}
+
+.icon-order-ascending:before {
+  content: "\e60e";
+}
+
+.icon-page-last:before {
+  content: "\e60f";
+}
+
+.icon-pause-circle:before {
+  content: "\e610";
+}
+
+.icon-photo:before {
+  content: "\e611";
+}
+
+.icon-service:before {
+  content: "\e612";
+}
+
+.icon-refresh:before {
+  content: "\e613";
+}
+
+.icon-search:before {
+  content: "\e614";
+}
+
+.icon-play-circle-stroke:before {
+  content: "\e615";
+}
+
+.icon-setting:before {
+  content: "\e616";
+}
+
+.icon-stop-circle:before {
+  content: "\e617";
+}
+
+.icon-shouyeicon:before {
+  content: "\e663";
+}
+
+.icon-shoujihaoicon:before {
+  content: "\e664";
+}
+
+.icon-woderenwu:before {
+  content: "\e665";
+}
+
+.icon-shezhi:before {
+  content: "\e666";
+}
+
+.icon-fanhui:before {
+  content: "\e669";
+}
+
+.icon-caidanicon:before {
+  content: "\e66a";
+}
+
+.icon-gengduo:before {
+  content: "\e66b";
+}
+
+.icon-jiahao-fang:before {
+  content: "\e66c";
+}
+
+.icon-zhengque-gou:before {
+  content: "\e66d";
+}
+
+.icon-Xhao:before {
+  content: "\e66e";
+}
+
+.icon-sousuo:before {
+  content: "\e66f";
+}
+
+.icon-shijian:before {
+  content: "\e670";
+}
+
