@@ -1,7 +1,7 @@
 <template>
 	<view class="index">
 		<!-- 头部 -->
-		<musicHead title='ikun音乐' :icon="false"></musicHead>
+		<musicHead title='坤坤音乐' :icon="false"></musicHead>
 		<!-- 可滚动区域 -->
 		<view class="container">
 			<scroll-view scroll-y="true">
